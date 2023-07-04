@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshua1030
 - 👀 I’m interested in gaming 
-- 🌱 I’m currently enrolled in Computer engineering in University of Toronto
+- 🌱 
 - 💞️
 - 📫 How to reach me: joshua.ma@mail.utoronto.ca
 
